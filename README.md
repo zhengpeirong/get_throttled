@@ -21,6 +21,7 @@ https://www.raspberrypi.com/documentation/computers/os.html#get_throttled
 ```
 
 ## Example result
+Test on Raspberry Pi 4 Model B.
 ```sh
 pi@node01:~ $ vcgencmd get_throttled
 throttled=0x0
