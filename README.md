@@ -41,5 +41,5 @@ No throttling issues detected.
 
 Previously detected issues:
 ~ Under-voltage has occurred
-~ Arm frequency capping has occurred
+~ Throttling has occurred
 ```
